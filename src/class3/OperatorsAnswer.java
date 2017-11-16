@@ -25,9 +25,9 @@ public class OperatorsAnswer {
 
         double bill = 20.0;
 
-        double tax = bill * (8.1 / 100);
+        double tax = bill * (8.1 / 100); // divide by 100 to get rid of percentage
 
-        double tip = bill * (15.0 / 100);
+        double tip = bill * (15.0 / 100); //same here
 
         double totalBill = bill + tax + tip;
 
