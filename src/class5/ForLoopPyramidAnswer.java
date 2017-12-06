@@ -4,7 +4,7 @@
  * Created by Brian J. Hart on 11/13/17.
  */
 
-package class4;
+package class5;
 
 /*
 Write a method that prints out a pyramid of *'s.

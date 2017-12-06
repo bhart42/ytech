@@ -5,7 +5,7 @@
 
  */
 
-package class4;
+package class5;
 
 /*
 Write a program that finds the square of all numbers

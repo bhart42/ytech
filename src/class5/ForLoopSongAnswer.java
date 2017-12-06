@@ -1,19 +1,18 @@
 /**
  * ytech
 
- * Created by Brian J. Hart on 11/11/17.
+ * Created by Brian J. Hart on 11/13/17.
 
- */
+ * */
 
-package class4;
+package class5;
 
 /*
 In your main method, modify your code so that the outro repeats
 19 times using a for loop.
 */
 
-public class ForLoopSong {
-
+public class ForLoopSongAnswer {
     public static void main(String[] args) {
 
         verse1();
@@ -29,25 +28,9 @@ public class ForLoopSong {
         verse4();
 
         //Outro repeats 19 times.
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
-        outro();
+        for(int i = 0; i < 19; i++) {
+            outro();
+        }
     }
 
     public static void verse1() {

@@ -4,7 +4,7 @@
  * Created by Brian J. Hart on 11/12/17.
  */
 
-package class3;
+package class4;
 
 /*
 In this program, you'll use what we learned about operators to write
